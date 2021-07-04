@@ -13,14 +13,21 @@ body {
         .font-large {
             font-size: 50px;
             font-weight: 700;
+            background: #21094e;
+            color: white;
         }
-
+        .font-sabuj{
+            font-size: 30px;
+            font-weight: 600;
+        }
         .font-big {
             font-size: 30px;
             font-weight: 600;
+            background-color:#a799b7;
         }
 
         .font-medium {
             font-size: 20px;
             font-weight: bold;
+            background-color:#7fc998;
         }

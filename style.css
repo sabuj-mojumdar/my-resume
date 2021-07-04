@@ -1,0 +1,26 @@
+body {
+            font-size: 20px;
+        }
+
+        table {
+            width: 100%;
+        }
+
+        .overline {
+            text-decoration: overline;
+        }
+
+        .font-large {
+            font-size: 50px;
+            font-weight: 700;
+        }
+
+        .font-big {
+            font-size: 30px;
+            font-weight: 600;
+        }
+
+        .font-medium {
+            font-size: 20px;
+            font-weight: bold;
+        }

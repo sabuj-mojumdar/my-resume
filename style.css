@@ -31,3 +31,6 @@ body {
             font-weight: bold;
             background-color:#7fc998;
         }
+        .borderless{
+            border-right: 0px;
+        }

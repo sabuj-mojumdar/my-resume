@@ -3,7 +3,9 @@
 body {
     font-size: 20px;
 }
-
+.animate__fadeInUp, .animate__fadeInDown{
+    animation-duration: 3s;
+}
 table {
     width: 100%;
 }

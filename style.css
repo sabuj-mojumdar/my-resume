@@ -1,36 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Galada&family=Tourney:wght@300;400;600;700&display=swap');
+
 body {
-            font-size: 20px;
-        }
+    font-size: 20px;
+}
 
-        table {
-            width: 100%;
-        }
-
-        .overline {
-            text-decoration: overline;
-        }
-
-        .font-large {
-            font-size: 50px;
-            font-weight: 700;
-            background: #21094e;
-            color: white;
-        }
-        .font-sabuj{
-            font-size: 30px;
-            font-weight: 600;
-        }
-        .font-big {
-            font-size: 30px;
-            font-weight: 600;
-            background-color:#a799b7;
-        }
-
-        .font-medium {
-            font-size: 20px;
-            font-weight: bold;
-            background-color:#7fc998;
-        }
-        .borderless{
-            border-right: 0px;
-        }
+table {
+    width: 100%;
+}
+.overline {
+    text-decoration: overline;
+}
+.font-large {
+    font-size: 50px;
+    font-weight: 700;
+    background: #21094e;
+    color: white;
+    font-family: 'Tourney', cursive;
+}
+.font-sabuj{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Galada', cursive;
+}
+.font-big {
+    font-size: 30px;
+    font-weight: 600;
+    background-color:Black;
+    font-family: 'Tourney', cursive;
+    color: white;
+}
+.font-medium {
+    font-size: 20px;
+    font-weight: bold;
+    background-color:#7fc998;
+    font-family: 'Tourney', cursive;
+    color: black;
+}
+.borderless{
+    border-right: 0px;
+}

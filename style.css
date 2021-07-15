@@ -6,6 +6,9 @@ body {
 .animate__fadeInUp, .animate__fadeInDown{
     animation-duration: 3s;
 }
+/* td{
+    transition: transform 2s linear;
+} */
 table {
     width: 100%;
 }
@@ -30,6 +33,12 @@ table {
     background-color:Black;
     font-family: 'Tourney', cursive;
     color: white;
+}
+.scale:hover {
+    transform: scaleX(1.5);
+    background: lightgray;
+    color: black;
+    transition: transform 0.5s linear;
 }
 .font-medium {
     font-size: 20px;

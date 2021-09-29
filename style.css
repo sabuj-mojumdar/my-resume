@@ -5,8 +5,8 @@ body {
     font-size: 20px;
     padding: 20px;
 }
-.animate__fadeInUp, .animate__fadeInDown{
-    animation-duration: 3s;
+table, td, tr{
+    border: none;
 }
 table {
     width: 100%;
